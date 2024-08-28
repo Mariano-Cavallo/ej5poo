@@ -6,7 +6,6 @@ public class ListaTareas {
     public ArrayList<Tarea> tareas;
     public String nombre;
 
-
     public ListaTareas(String nombre){
         this.nombre = nombre;
         tareas = new ArrayList<Tarea>();
